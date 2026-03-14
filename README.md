@@ -12,22 +12,7 @@
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/eric1855"><img src="https://img.shields.io/github/followers/eric1855?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF" alt="followers"/></a>
-
 </div>
-
----
-
-### `> whoami`
-
-```js
-const eric = {
-    school:    "Carnegie Mellon University — School of Computer Science",
-    languages: ["Python", "JavaScript", "Dart", "Java", "C"],
-    interests: ["Full-Stack Dev", "AI/ML", "Mobile Apps", "Hackathons"],
-    funFact:   "I once built a restroom-rating app for CMU campus 🚽",
-};
-```
 
 ---
 
@@ -142,7 +127,7 @@ const eric = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=eric1855&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Profile_Views-421-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 <br/><br/>
 
