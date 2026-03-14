@@ -13,28 +13,26 @@ jobs:
 
       - name: Update code time badge
         run: |
-          # Extract current hours and mins from badge
-          current=$(grep -oP 'Code%20Time-\K[0-9%2C]+%20hrs%20[0-9]+%20mins' README.md)
-          hrs=$(echo "$current" | grep -oP '^[0-9%2C]+' | sed 's/%2C//g')
-          mins=$(echo "$current" | grep -oP '[0-9]+%20mins' | grep -oP '^[0-9]+')
+          # Extract current hours and mins from badge URL
+          # Badge format: Code%20Time-831%20hrs%2014%20mins or Code%20Time-1%2C038%20hrs%2014%20mins
+          line=$(grep 'Code%20Time-' README.md)
 
+          # Decode the badge value: replace %20 with space, %2C with comma
+          decoded=$(echo "$line" | grep -oP 'Code%20Time-\K[^-]+(?=-blue)' | sed 's/%20/ /g; s/%2C//g')
+          # decoded is now like "831 hrs 14 mins"
+          hrs=$(echo "$decoded" | awk '{print $1}')
+          mins=$(echo "$decoded" | awk '{print $3}')
+
+          echo "Current: ${hrs}h ${mins}m"
           total_mins=$((hrs * 60 + mins))
 
-          # Target: ~4 hrs/week avg, std ~4 hrs
+          # Target: ~4 hrs/week avg with ~4 hrs std dev
           # Running 4x/day = 28x/week
-          # 240 mins/week / 28 runs = ~8.6 mins per run on average
-          # std: 240 mins/week / 28 runs = ~8.6 mins std per run
-          # Use Box-Muller approximation with $RANDOM
-          r1=$((RANDOM % 1000 + 1))
-          r2=$((RANDOM % 1000 + 1))
-
-          # Rough normal: mean=9, std=9
-          # Simple approach: uniform [0, 18] then skew
-          increment=$(( (RANDOM % 19) ))
+          # 240 mins/week / 28 runs = ~8.6 mins per run average
+          increment=$((RANDOM % 19))
 
           # 30% chance of 0 (not coding this block)
-          roll=$((RANDOM % 100))
-          if [ $roll -lt 30 ]; then
+          if [ $((RANDOM % 100)) -lt 30 ]; then
             increment=0
           fi
 
@@ -42,15 +40,15 @@ jobs:
           new_hrs=$((total_mins / 60))
           new_mins=$((total_mins % 60))
 
-          # Format hours with comma for thousands
+          # Format hours with %2C for thousands separator
           if [ $new_hrs -ge 1000 ]; then
             formatted_hrs=$(printf "%d%%2C%03d" $((new_hrs / 1000)) $((new_hrs % 1000)))
           else
             formatted_hrs="$new_hrs"
           fi
 
-          new_badge="${formatted_hrs}%20hrs%20${new_mins}%20mins"
-          sed -i "s/Code%20Time-[0-9%2C]*%20hrs%20[0-9]*%20mins/Code%20Time-${new_badge}/" README.md
+          new_badge="Code%20Time-${formatted_hrs}%20hrs%20${new_mins}%20mins"
+          sed -i "s|Code%20Time-[^-]*hrs%20[0-9]*%20mins|${new_badge}|" README.md
 
           echo "Updated: ${hrs}h ${mins}m -> ${new_hrs}h ${new_mins}m (+${increment}m)"
 
