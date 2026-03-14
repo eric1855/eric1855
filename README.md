@@ -54,6 +54,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-6C3AED?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4444?style=for-the-badge&logoColor=white)
 
 **Tools & Platforms**
 
