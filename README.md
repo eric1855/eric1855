@@ -108,6 +108,10 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric1855&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2012%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
+
 </div>
 
 ---
