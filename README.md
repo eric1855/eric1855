@@ -4,12 +4,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Eric+Wang+%F0%9F%91%8B;CMU+SCS+%E2%80%A2+Builder+%E2%80%A2+Troll" alt="Typing SVG" />
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 ```txt
  ╔══════════════════════════════════════════════════════════════╗
- ║  CS @ Carnegie Mellon University                            ║
- ║  Building things that turn ideas into working software.     ║
+ ║  CS @ Carnegie Mellon University                             ║
+ ║  Building things that turn ideas into working software.      ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
