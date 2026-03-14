@@ -146,4 +146,29 @@
 
 </div>
 
-<!-- achievement-2 -->
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=eric1855&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Profile Views"/>
+
+<br/><br/>
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠈⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀ ALWAYS BE  ⠀⠀⠀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀ BUILDING. ⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="100%"/>
+
+</div>
