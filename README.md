@@ -113,6 +113,16 @@
 
 ---
 
+### `> trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eric1855&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### `> contribution_graph`
 
 <div align="center">
@@ -120,6 +130,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=eric1855&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=eric1855&theme=minimal&hide_border=true&area=true" />
+</picture>
+
+</div>
+
+---
+
+### `> snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eric1855/eric1855/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/eric1855/eric1855/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
