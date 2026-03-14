@@ -1,4 +1,4 @@
-name: Update Code Time
+name: organization
 
 on:
   schedule:
