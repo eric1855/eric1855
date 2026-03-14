@@ -157,6 +157,4 @@
 ---
 
 <div align="center">
-
-</div>
 <!-- achievement-1 -->
