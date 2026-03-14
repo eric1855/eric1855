@@ -110,7 +110,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Code%20Time-831%20hrs%2014%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
+<img src="https://img.shields.io/badge/Code%20Time-44%20hrs%2050%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
 
 </div>
 
