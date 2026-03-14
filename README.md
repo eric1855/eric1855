@@ -127,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Profile_Views-421-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=eric1855&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Profile Views"/>
 
 <br/><br/>
 
