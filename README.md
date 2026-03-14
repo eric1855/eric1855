@@ -140,3 +140,81 @@
 ```
 
 </div>
+
+---
+
+### `> vibes`
+
+<div align="center">
+
+<!-- 1. Matrix green code rain -->
+<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="480" alt="Matrix Code"/>
+<br/><sub>1 — Matrix code rain</sub>
+
+<br/><br/>
+
+<!-- 2. Matrix code glitch -->
+<img src="https://media.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif" width="480" alt="Matrix Glitch"/>
+<br/><sub>2 — Matrix code glitch</sub>
+
+<br/><br/>
+
+<!-- 3. Hacking the mainframe -->
+<img src="https://media1.tenor.com/m/_EwJ5ksSNxUAAAAC/hacking-the-mainframe-hacking.gif" width="480" alt="Hacking Mainframe"/>
+<br/><sub>3 — Hacking the mainframe</sub>
+
+<br/><br/>
+
+<!-- 4. Hacker typing -->
+<img src="https://media1.tenor.com/m/VrzXhtoSwcsAAAAC/hacker-typing.gif" width="480" alt="Hacker Typing"/>
+<br/><sub>4 — Hacker typing</sub>
+
+<br/><br/>
+
+<!-- 5. Cyberpunk hacker code -->
+<img src="https://media1.tenor.com/m/-f0oW6O9V9AAAAAC/cyberpunk-hacker.gif" width="480" alt="Cyberpunk Hacker"/>
+<br/><sub>5 — Cyberpunk hacker code</sub>
+
+<br/><br/>
+
+<!-- 6. Cyberpunk hacker scene -->
+<img src="https://media1.tenor.com/m/i8lIzIlzeHoAAAAC/cyberpunk-hacker.gif" width="480" alt="Cyberpunk Scene"/>
+<br/><sub>6 — Cyberpunk hacker scene</sub>
+
+<br/><br/>
+
+<!-- 7. Hacker at computer -->
+<img src="https://media1.tenor.com/m/eel18OEN2gIAAAAd/hacker-computer.gif" width="480" alt="Hacker Computer"/>
+<br/><sub>7 — Hacker at computer</sub>
+
+<br/><br/>
+
+<!-- 8. Neon colorful tech -->
+<img src="https://media1.tenor.com/m/0DcmdSCPcQgAAAAC/neon-colorful.gif" width="480" alt="Neon Tech"/>
+<br/><sub>8 — Neon colorful tech</sub>
+
+<br/><br/>
+
+<!-- 9. Coding on fire -->
+<img src="https://media.giphy.com/media/rhZr8u3cvxe0ksf1ej/giphy.gif" width="480" alt="Coding on Fire"/>
+<br/><sub>9 — Coding on fire</sub>
+
+<br/><br/>
+
+<!-- 10. Developer working -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="480" alt="Developer"/>
+<br/><sub>10 — Developer working</sub>
+
+<br/><br/>
+
+<!-- 11. Programmer illustration -->
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="480" alt="Programmer"/>
+<br/><sub>11 — Programmer illustration</sub>
+
+<br/><br/>
+
+<!-- 12. Coding freak -->
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="480" alt="Coding Freak"/>
+<br/><sub>12 — Coding freak</sub>
+
+</div>
