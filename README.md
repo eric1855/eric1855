@@ -25,8 +25,11 @@
 
 <h3 align="center">🎮 Personal Site</h3>
 <p align="center">
+<a href="https://eric1855.github.io/personal-site/">
+<img src="https://img.shields.io/badge/🚗_Play_Live-58A6FF?style=for-the-badge"/>
+</a>
 <a href="https://github.com/eric1855/personal-site">
-<img src="https://img.shields.io/badge/Interactive_3D_Portfolio-58A6FF?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p align="center">Drive a low-poly car around a 3D world — buildings are portfolio sections. Built with Three.js + vanilla JS.</p>
@@ -93,7 +96,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eric1855&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eric1855&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
