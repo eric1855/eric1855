@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?cfont=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Eric+Wang+%F0%9F%91%8B;CMU+SCS+%E2%80%A2+Builder+%E2%80%A2+Troll" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Eric+Wang+%F0%9F%91%8B;CMU+SCS+%E2%80%A2+Builder+%E2%80%A2+Troll" alt="Typing SVG" />
 
 <br/>
 
@@ -85,7 +85,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Code%20Time-1837%20hrs%2015%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
+<img src="https://img.shields.io/badge/Code%20Time-837%20hrs%2015%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
 <img src="https://komarev.com/ghpvc/?username=eric1855&style=flat&color=blue&labelColor=grey" alt="Profile Views"/>
 
 </div>
