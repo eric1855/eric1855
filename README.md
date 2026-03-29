@@ -81,22 +81,12 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=eric1855&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric1855&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric1855&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Code%20Time-836%20hrs%2058%20mins-blue?style=flat&logo=wakatime&logoColor=white" alt="Code Time"/>
 <img src="https://komarev.com/ghpvc/?username=eric1855&style=flat&color=blue&labelColor=grey" alt="Profile Views"/>
-
-</div>
-
----
-
-### `> trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eric1855&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
