@@ -39,7 +39,7 @@
 
 <h3 align="center">🎬 ClipFarm</h3>
 <p align="center">
-<a href="[https://github.com/eric1855/ClipFarm/blob/main/demo.mp4]">
+<a href="https://drive.google.com/file/d/1MqYRu6mwf5bVdGm80AuJEJDopx05-E30/view?usp=sharing">
 <img src="https://img.shields.io/badge/🎬_Watch_Demo-58A6FF?style=for-the-badge"/>
 </a>
 <a href="https://github.com/eric1855/ClipFarm">
@@ -66,8 +66,11 @@
 
 <h3 align="center">🚽 ScottyStalls</h3>
 <p align="center">
+<a href="https://drive.google.com/file/d/1vnNqPjb15x5mxHe_59MipTUJfzSqPFer/view?usp=sharing">
+<img src="https://img.shields.io/badge/🎬_Watch_Demo-58A6FF?style=for-the-badge"/>
+</a>
 <a href="https://github.com/eric1855/ScottyStalls">
-<img src="https://img.shields.io/badge/Campus_Restroom_Finder-58A6FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p align="center">Yelp-style mobile app for finding & rating restrooms on CMU campus. Built with Flutter.</p>
