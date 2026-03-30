@@ -39,8 +39,11 @@
 
 <h3 align="center">🎬 ClipFarm</h3>
 <p align="center">
+<a href="https://github.com/eric1855/ClipFarm/blob/main/demo.mp4">
+<img src="https://img.shields.io/badge/🎬_Watch_Demo-58A6FF?style=for-the-badge"/>
+</a>
 <a href="https://github.com/eric1855/ClipFarm">
-<img src="https://img.shields.io/badge/Auto_Content_Generator-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p align="center">Automatic long-form to short-form content generator for TikTok/Reels. HackCMU 2025.</p>
