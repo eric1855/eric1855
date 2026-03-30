@@ -39,7 +39,7 @@
 
 <h3 align="center">🎬 ClipFarm</h3>
 <p align="center">
-<a href="[https://github.com/eric1855/ClipFarm/blob/main/demo.mp4](https://drive.google.com/file/d/1MqYRu6mwf5bVdGm80AuJEJDopx05-E30/view?usp=sharing)">
+<a href="[https://github.com/eric1855/ClipFarm/blob/main/demo.mp4]">
 <img src="https://img.shields.io/badge/🎬_Watch_Demo-58A6FF?style=for-the-badge"/>
 </a>
 <a href="https://github.com/eric1855/ClipFarm">
