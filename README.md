@@ -55,8 +55,11 @@
 
 <h3 align="center">⛏️ MinecraftLive</h3>
 <p align="center">
+<a href="https://drive.google.com/file/d/104BanqN7PShnODy9gVDWJFy8xIF115ec/view?usp=sharing">
+<img src="https://img.shields.io/badge/🎬_Watch_Demo-58A6FF?style=for-the-badge"/>
+</a>
 <a href="https://github.com/eric1855/MinecraftLive">
-<img src="https://img.shields.io/badge/Tartan_Hacks_2026-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source_Code-333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p align="center">Tartan Hacks 2026 project — bridging Minecraft with live interactions.</p>
